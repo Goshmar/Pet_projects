@@ -129,7 +129,7 @@ the maximum possible value of the fitness function.
 
 - To test, evaluate and create algorithms (including the selection of heuristic
     values), analytics from the chart was used. The graph displays the maximum
-    (red) and average (green) value of the fitness function:
+    (red) and average (green) value of the fitness function - [plots](https://drive.google.com/file/d/1ICJobGWcbUeZnwtkK7m4wrR1D47Bt8Nl/view)
 
 By fixing random values (for example, through the "random.seed" function)
 and using a graph, we managed to achieve optimal results. For example,
